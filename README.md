@@ -1,14 +1,6 @@
 # lab_instructions.txt
 
-In the text will you will find the hw instructions
 
-ヽ(๏∀๏ )ﾉ
+Access website <a href="https://hw1.ssingh.info/intro.html">here</a>
 
-
-
-
-
-## ← intro.html
-
-pretty much the index.html 
-
+Note: index.html just redirects to intro.html
